@@ -1,0 +1,5 @@
+@alpha 0.0.1:
+	This is a very early first version.
+
+	"mow" can already parse files successfully, but many features are not
+	yet complete.
